@@ -23,5 +23,5 @@ Imbalanced Dataset: The model struggles with recall for class 0 (non-spam), sugg
 
 Files in the Repository
 spam_classifier.ipynb – Jupyter Notebook containing the full implementation.
-emails.csv – Sample dataset (not included here, replace with your own).
+emails.csv – Sample dataset
 README.md – Project documentation.
