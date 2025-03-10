@@ -1,4 +1,7 @@
 # Spam-Email-Classification-using-Naive-Bayes
+
+Authors: Ondrej Dusa (https://ondrej-dusa.github.io/Portfolio/), Matej Dusa
+
 This project implements a spam email classification model using Natural Language Processing (NLP) techniques and Multinomial Naïve Bayes. The dataset contains labeled emails, which are preprocessed and vectorized before being classified as spam or not spam.
 
 Project Overview
